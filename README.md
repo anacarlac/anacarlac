@@ -12,8 +12,9 @@ I'm a research manager at [eduLab21, a research laboratory at Ayrton Senna Insti
 ### What are my interests at the moment?
 🌱 I’m currently learning how to use GitHub to be a page where I share all the cool stuff that I enjoy talking and researching about it. Also, I am researching about individual differences constructs, such as socioemotional skills and their benefits, and how to build reliable and valid instruments to measure them!
 
-### Current challegens that I am participating in:
-+ #30DayChartChallenge 
+### Current challenges or initiatives that I am participating in:
++ #30DayChartChallenge
++ Book club R-Ladies São Paulo: R for data science 2nd edition
 
 ### Previous projects I have worked on:
 + Shiny app about gender data and human rights in Brazil: [available here](https://acrispim.shinyapps.io/appCMIG/)
